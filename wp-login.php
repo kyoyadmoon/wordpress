@@ -9,7 +9,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>dmoon-test &lsaquo; 登入</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' href='https://kyoyadmoon.github.io/wordpress-ghpages/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.2' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 		</head>
@@ -17,7 +17,7 @@
 		<div id="login">
 		<h1><a href="http://tw.wordpress.org/" title="本站採用 WordPress 建置" tabindex="-1">dmoon-test</a></h1>
 	
-<form name="loginform" id="loginform" action="/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="https://kyoyadmoon.github.io/wordpress-ghpages/wp-login.php" method="post">
 	<p>
 		<label for="user_login">使用者名稱或電子郵件地址<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -29,13 +29,13 @@
 		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> 記住我</label></p>
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="登入" />
-		<input type="hidden" name="redirect_to" value="/wp-admin/" />
+		<input type="hidden" name="redirect_to" value="https://kyoyadmoon.github.io/wordpress-ghpages/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
 </form>
 
 <p id="nav">
-	<a href="/wp-login.php?action=lostpassword">忘了密碼？</a>
+	<a href="https://kyoyadmoon.github.io/wordpress-ghpages/wp-login.php?action=lostpassword">忘了密碼？</a>
 </p>
 
 <script type="text/javascript">
@@ -52,7 +52,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="/">&larr; 返回 dmoon-test</a></p>
+	<p id="backtoblog"><a href="https://kyoyadmoon.github.io/wordpress-ghpages/">&larr; 返回 dmoon-test</a></p>
 	
 	</div>
 
