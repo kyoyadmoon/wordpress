@@ -12,12 +12,29 @@
 	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kyoyadmoon.github.io/wordpress-ghpages/</link>
 	<description>全新的正體中文 WordPress 網誌！</description>
-	<lastBuildDate>Wed, 01 Feb 2017 13:53:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Feb 2017 14:04:05 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
+		<title>A Gift for 1000 Days!</title>
+		<link>https://kyoyadmoon.github.io/wordpress-ghpages/a-gift-for-1000-days/</link>
+		<comments>https://kyoyadmoon.github.io/wordpress-ghpages/a-gift-for-1000-days/#respond</comments>
+		<pubDate>Wed, 01 Feb 2017 14:04:05 +0000</pubDate>
+		<dc:creator><![CDATA[dmoon.t@gmail.com]]></dc:creator>
+				<category><![CDATA[未分類]]></category>
+
+		<guid isPermaLink="false">https://kyoyadmoon.github.io/wordpress-ghpages/?p=12</guid>
+		<description><![CDATA[寄得給我一千個擁抱 😀 love you]]></description>
+				<content:encoded><![CDATA[<p>寄得給我一千個擁抱 <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+love you</p>
+<p><img class="alignnone " src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/15203209_664400707075281_2431712085126469042_n.jpg?oh=a915c9e4a78801e6b7fb5665b7d30c75&amp;oe=5915D010" width="338" height="338" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://kyoyadmoon.github.io/wordpress-ghpages/a-gift-for-1000-days/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>image test</title>
 		<link>https://kyoyadmoon.github.io/wordpress-ghpages/image-test/</link>
 		<comments>https://kyoyadmoon.github.io/wordpress-ghpages/image-test/#respond</comments>
