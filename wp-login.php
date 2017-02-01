@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>dmoon-test &lsaquo; 登入</title>
+	<title>Running Sunny &lsaquo; 登入</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' href='https://kyoyadmoon.github.io/wordpress-ghpages/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.2' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
@@ -15,7 +15,7 @@
 		</head>
 	<body class="login login-action-login wp-core-ui  locale-zh-tw">
 		<div id="login">
-		<h1><a href="http://tw.wordpress.org/" title="本站採用 WordPress 建置" tabindex="-1">dmoon-test</a></h1>
+		<h1><a href="http://tw.wordpress.org/" title="本站採用 WordPress 建置" tabindex="-1">Running Sunny</a></h1>
 	
 <form name="loginform" id="loginform" action="https://kyoyadmoon.github.io/wordpress-ghpages/wp-login.php" method="post">
 	<p>
@@ -52,7 +52,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="https://kyoyadmoon.github.io/wordpress-ghpages/">&larr; 返回 dmoon-test</a></p>
+	<p id="backtoblog"><a href="https://kyoyadmoon.github.io/wordpress-ghpages/">&larr; 返回 Running Sunny</a></p>
 	
 	</div>
 
