@@ -12,28 +12,24 @@
 	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kyoyadmoon.github.io/wordpress-ghpages/</link>
 	<description>全新的正體中文 WordPress 網誌！</description>
-	<lastBuildDate>Wed, 01 Feb 2017 12:40:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Feb 2017 13:53:52 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 	<item>
-		<title>test 2</title>
-		<link>https://kyoyadmoon.github.io/wordpress-ghpages/test-2/</link>
-		<comments>https://kyoyadmoon.github.io/wordpress-ghpages/test-2/#respond</comments>
-		<pubDate>Wed, 01 Feb 2017 12:40:44 +0000</pubDate>
+		<title>image test</title>
+		<link>https://kyoyadmoon.github.io/wordpress-ghpages/image-test/</link>
+		<comments>https://kyoyadmoon.github.io/wordpress-ghpages/image-test/#respond</comments>
+		<pubDate>Wed, 01 Feb 2017 13:53:52 +0000</pubDate>
 		<dc:creator><![CDATA[dmoon.t@gmail.com]]></dc:creator>
 				<category><![CDATA[未分類]]></category>
 
-		<guid isPermaLink="false">https://kyoyadmoon.github.io/wordpress-ghpages/?p=4</guid>
-		<description><![CDATA[asjdflksajfklsadjf asdfjkdlsa;fjkl;asjdf asdkfjaklsdjfs [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>asjdflksajfklsadjf</p>
-<p>asdfjkdlsa;fjkl;asjdf</p>
-<p>asdkfjaklsdjfskadf</p>
-<p>sadfjlajfkaljfkdlas;</p>
-<p>asjfdklafjd;askfl</p>
+		<guid isPermaLink="false">https://kyoyadmoon.github.io/wordpress-ghpages/?p=6</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-medium wp-image-10" src="https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/uploads/2017/02/vectorbeastcom-grass-sun-300x169.jpg" alt="" width="300" height="169" srcset="https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/uploads/2017/02/vectorbeastcom-grass-sun-300x169.jpg 300w, https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/uploads/2017/02/vectorbeastcom-grass-sun-768x432.jpg 768w, https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/uploads/2017/02/vectorbeastcom-grass-sun-1024x576.jpg 1024w, https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/uploads/2017/02/vectorbeastcom-grass-sun-676x380.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>https://kyoyadmoon.github.io/wordpress-ghpages/test-2/feed/</wfw:commentRss>
+			<wfw:commentRss>https://kyoyadmoon.github.io/wordpress-ghpages/image-test/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
