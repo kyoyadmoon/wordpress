@@ -100,66 +100,34 @@ img.emoji {
 			<div class="nav-next"><a href="https://kyoyadmoon.github.io/wordpress-ghpages/image-test/" rel="next">image test&nbsp;<span class="meta-nav"></span></a></div>		</div><!-- .nav-links -->
 	</nav><!-- .navigation -->
 	
-					
-	<!-- Here we load disqus comments -->
-	<div class="dcl-disqus-thread" id="comments" >
-	<div id="disqus_thread">
 				
-	
-			</div>
-	</div>
-	
-		
-			<script type="text/javascript">
-	/* <![CDATA[ */
-		var disqus_url = 'https://kyoyadmoon.github.io/wordpress-ghpages/hello-world/';
-		var disqus_identifier = '1 https://kyoyadmoon.github.io/wordpress-ghpages/?p=1';
-		var disqus_container_id = 'disqus_thread';
-		var disqus_domain = 'disqus.com';
-		var disqus_shortname = 'wordpress-ghpages';
-		var disqus_title = "Hello world! 哈囉！";
-		var disqus_config = function () {
-			var config = this; // Access to the config object
-			config.language = '';
+<div id="disqus_thread">
+            <div id="dsq-content">
 
-			/* Add the ability to add javascript callbacks */
-			
-			/*
-			   All currently supported events:
-				* preData — fires just before we request for initial data
-				* preInit - fires after we get initial data but before we load any dependencies
-				* onInit  - fires when all dependencies are resolved but before dtpl template is rendered
-				* afterRender - fires when template is rendered but before we show it
-				* onReady - everything is done
-			 */
 
-			config.callbacks.preData.push(function() {
-				// clear out the container (its filled for SEO/legacy purposes)
-				document.getElementById(disqus_container_id).innerHTML = '';
-			});
-						config.callbacks.onReady.push(function() {
-				// sync comments in the background so we don't block the page
-				var script = document.createElement('script');
-				script.async = true;
-				script.src = '?cf_action=sync_comments&post_id=1';
+            <ul id="dsq-comments">
+                    <li class="comment even thread-even depth-1" id="dsq-comment-1">
+        <div id="dsq-comment-header-1" class="dsq-comment-header">
+            <cite id="dsq-cite-1">
+                <a id="dsq-author-user-1" href="https://wordpress.org/" target="_blank" rel="nofollow">一位 WordPress 留言者</a>
+            </cite>
+        </div>
+        <div id="dsq-comment-body-1" class="dsq-comment-body">
+            <div id="dsq-comment-message-1" class="dsq-comment-message"><p>嗨，這是一則迴響。<br />
+為了讓你開始審核、編輯及刪除迴響，請前往控制台的迴響頁面。<br />
+留言者大頭貼來源為 <a href="https://gravatar.com/">Gravatar</a>。</p>
+</div>
+        </div>
 
-				var firstScript = document.getElementsByTagName( "script" )[0];
-				firstScript.parentNode.insertBefore(script, firstScript);
-			});
-								};
-	/* ]]> */
-	</script>
-	
-		
-	<script type="text/javascript">
-	/* <![CDATA[ */
-		var DsqLocal = {
-			'trackbacks': [
-				],
-			'trackback_url': "https:\/\/kyoyadmoon.github.io\/wordpress-ghpages\/hello-world\/trackback\/"		};
-	/* ]]> */
-	</script>
-			
+    </li><!-- #comment-## -->
+            </ul>
+
+
+        </div>
+
+    </div>
+
+
 			
 		
 		</main><!-- #main -->
@@ -214,54 +182,18 @@ img.emoji {
 <script type='text/javascript' src='https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/themes/sela/js/sela.js?ver=20140813'></script>
 <script type='text/javascript' src='https://kyoyadmoon.github.io/wordpress-ghpages/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
 <script type='text/javascript' src='https://kyoyadmoon.github.io/wordpress-ghpages/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
-<script  type="text/javascript">
+<script type='text/javascript'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"platform":"wordpress@4.7.2","language":""},"disqusIdentifier":"1 https:\/\/kyoyadmoon.github.io\/wordpress-ghpages\/?p=1","disqusShortname":"wordpress-ghpages","disqusTitle":"Hello world! \u54c8\u56c9\uff01","disqusUrl":"https:\/\/kyoyadmoon.github.io\/wordpress-ghpages\/hello-world\/","options":{"manualSync":false},"postId":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/plugins/disqus-comment-system/media/js/disqus.js?ver=4.7.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"wordpress-ghpages"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kyoyadmoon.github.io/wordpress-ghpages/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.7.2'></script>
 
-    var disqus_shortname = "wordpress-ghpages";
-    if (typeof ds_loaded == "undefined") {
-        var ds_loaded = false;
-    }
-    function loadDisqus() {
-        var disqus_div = document.getElementById("disqus_thread");
-        var top = disqus_div.offsetTop;
-        var disqus_data = disqus_div.dataset;
-        if ( !ds_loaded && ( window.scrollY || window.pageYOffset ) + window.innerHeight > top ) {
-            ds_loaded = true;
-            for (var key in disqus_data) {
-                if (key.substr(0,6) == "disqus") {
-                    window["disqus_" + key.replace("disqus","").toLowerCase()] = disqus_data[key];
-								}
-                }
-                var dsq = document.createElement("script");
-                dsq.type = "text/javascript";
-                dsq.async = true;
-                dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";
-                if(document.getElementById("dcl-hidden-div")) {
-                    document.getElementById("dcl-hidden-div").innerHTML = "Loading...";
-                }
-                (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
-            }
-        }
-					var disqus_div_new = document.getElementById("disqus_thread");
-		var divExists = disqus_div_new != null;
-                if(document.body.scrollHeight < window.innerHeight){
-                    loadDisqus();
-                } else if(divExists) {
-                    window.onscroll = function() { loadDisqus(); }
-                }
-	</script><script   type='text/javascript'>
-                /* <![CDATA[ */
-                var hash = window.location.hash;
-                var disqus_shortname = 'wordpress-ghpages';
-                if(hash!==''){
-                    var ds_loaded = true;
-                    var dcl_loaded = 1;
-                    (function() {
-                        var dsq = document.createElement('script'); dsq.type = 'text/javascript';
-                        dsq.async = true;
-                        dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';
-                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                    })();}
-                /* ]]> */
-            </script>
 </body>
 </html>
